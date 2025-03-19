@@ -1,12 +1,20 @@
-# React + Vite
+# 📚 Book Selling and Buying Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An **online marketplace** for buying and selling new or used books. This platform allows users to **list books, negotiate prices, and complete transactions securely**. It supports multiple categories, reviews, and seller verification.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 **User Authentication** – Secure login and registration.  
+- 📖 **Book Listings** – Users can add, edit, and delete book listings.  
+- 🔍 **Search & Filters** – Find books easily with advanced filters.  
+- ✅ **Seller Verification** – Ensures trust and security for buyers.  
+- 💳 **Payment Integration** – Secure transactions through multiple payment gateways.  
+- ⭐ **Reviews & Ratings** – Users can rate and review sellers.  
 
-## Expanding the ESLint configuration
+## 🏗️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React
+- **Backend**: Node.js (Express)  
+- **Database**:  MongoDB  
+- **Authentication**: JWT   
+- **Payment Gateway**: Razorpay  
